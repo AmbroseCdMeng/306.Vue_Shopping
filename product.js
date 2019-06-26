@@ -1,0 +1,81 @@
+export default [{
+    id: 1,
+    name: 'AirPods',
+    brand: 'Apple',
+    image: 'https://dpic3.tiankong.com/29/x1/QJ6127319707.jpg?x-oss-process=style/240h',
+    sales: 6333,
+    cost: 6999,
+    color: '白色'
+}, {
+    id: 2,
+    name: 'AirPods',
+    brand: 'Apple',
+    image: 'https://dpic.tiankong.com/03/52/QJ6637347088.jpg?x-oss-process=style/240h',
+    sales: 124012,
+    cost: 7998,
+    color: '红色'
+}, {
+    id: 3,
+    name: 'AirPods',
+    brand: 'HuaWei',
+    image: 'https://dpic.tiankong.com/ww/vu/QJ9122801564.jpg?x-oss-process=style/240h',
+    sales: 12543,
+    cost: 1999,
+    color: '白色'
+}, {
+    id: 4,
+    name: 'AirPods',
+    brand: 'Apple',
+    image: 'https://dpic2.tiankong.com/1u/81/QJ6127289518.jpg?x-oss-process=style/240h',
+    sales: 10200,
+    cost: 3659,
+    color: '金色'
+}, {
+    id: 5,
+    name: 'AirPods',
+    brand: 'Mi',
+    image: 'http://img95.699pic.com/photo/50130/4097.jpg_wh300.jpg',
+    sales: 20012,
+    cost: 3499,
+    color: '红色'
+}, {
+    id: 6,
+    name: 'AirPods',
+    brand: 'Apple',
+    image: 'http://img95.699pic.com/photo/50094/4245.jpg_wh300.jpg',
+    sales: 10245,
+    cost: 8888,
+    color: '金色'
+}, {
+    id: 7,
+    name: 'AirPods',
+    brand: 'Apple',
+    image: 'http://img95.699pic.com/photo/50066/8677.jpg_wh300.jpg',
+    sales: 10000,
+    cost: 1288,
+    color: '白色'
+}, {
+    id: 8,
+    name: 'Mi-5X',
+    brand: 'Mi',
+    image: 'https://dpic3.tiankong.com/gk/sx/QJ6454968895.jpg?x-oss-process=style/240h',
+    sales: 30100,
+    cost: 3699,
+    color: '金色'
+}, {
+    id: 9,
+    name: 'AirPods',
+    brand: 'Apple',
+    image: 'http://img95.699pic.com/photo/50117/7772.jpg_wh300.jpg',
+    sales: 10000,
+    cost: 1288,
+    color: '蓝色'
+}, {
+    id: 10,
+    name: 'Huawei',
+    brand: 'HuaWei',
+    image: 'http://img95.699pic.com/photo/50130/7774.jpg_wh300.jpg',
+    sales: 21340,
+    cost: 5488,
+    color: '金色'
+}]
